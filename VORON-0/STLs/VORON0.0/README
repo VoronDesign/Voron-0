@@ -1,1 +1,5 @@
 STL's for RC1 release of VORON Zero
+
+Files that are Prefixed with [a]_ are intended to be printed in the accent color all other files are intended to be printed in the base color
+
+toolhead folders contain all the parts that need to be printed for each specific toolhead, print the parts that match the hotend you are using.
