@@ -1,0 +1,10 @@
+STL's for RC1 release of VORON Zero
+
+Files that are Prefixed with [a]_ are intended to be printed in the accent color all other files are intended to be printed in the base color
+
+toolhead folders contain all the parts that need to be printed for each specific toolhead, print the parts that match the hotend you are using.
+
+Panel mounting clips are offered in 3 sizes. print the sizes that matches the thickness of the panels you are using.
+
+The TopHat is available in a unibody one piece design as well as a 4 piece design (for printing directly on the V0) choose one or the other, 
+you do not need both. the mounting brackets for tophat panels are also offered in 3 sizes. print the sizes that matches the thickness of the panels you are using.
