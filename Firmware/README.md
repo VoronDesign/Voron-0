@@ -12,8 +12,9 @@ As always, check Discord #voron_0_questions for help
 * Do a `QUERY_ENDSTOPS` testing each endstop
 * Be ready to emergency stop, practice it
 * Try homeing each axis, `G28 x` then `G28 x y` then `G28`
-* Adjust direction as necessary
+* Adjust direction `dir_pin` as necessary
 * Check fans are working properly
+* Validate your thermistors `sensor_type`
 * Tune bed `PID_CALIBRATE HEATER=heater_bed TARGET=100`
 * Tune hotend with `M106 S64` then `PID_CALIBRATE HEATER=extruder TARGET=245`
 
