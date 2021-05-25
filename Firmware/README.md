@@ -5,12 +5,12 @@ https://docs.vorondesign.com/build/startup/
 
 As always, check Discord #voron_0_questions for help
 
-## Quick startup
+## Quick Start
 * Find and update your unique mcu `serial`
 * Do a `STEPPER_BUZZ STEPPER=stepper_x` and repeat for each stepper
-* Do a `QUERY_ENDSTOPS` testing each endstop
+* Test each endstop using `QUERY_ENDSTOPS`
 * Be ready to emergency stop, practice it
-* Try homeing each axis, `G28 x` then `G28 x y` then `G28`
+* Try homeing each axis, `G28 X` then `G28 X Y` then `G28`
 * Adjust direction `dir_pin` as necessary
 * Do a `BED_SCREWS_ADJUST` with the paper test
 * Check fans are working properly
