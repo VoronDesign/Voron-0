@@ -2,7 +2,7 @@
 
 ![Image of Voron Zero](http://vorondesign.com/images/voron0.2_bg.jpg)
 
-The official release of the Voron Zero 3d printer.  You can find the BOM in the configurator located at the [Voron Design]( http://vorondesign.com/voron0) website.
+The official release of the Voron Zero 3d printer. You can find the BOM in the configurator located at the [Voron Design]( http://vorondesign.com/voron0) website.
 
 The current revision is V0.2
 
@@ -28,7 +28,7 @@ A majority of the printed parts have changed. The configurator will give you an 
 
 **Drive units**
 - Motor screw count reduction
-- Endstop Removed for sensorless homing
+- Endstop removed for sensorless homing
 
 **Frame**
 - No changes
@@ -42,7 +42,7 @@ A majority of the printed parts have changed. The configurator will give you an 
 
 **Panels/clips**
 - All Panels are 3mm
-- deck oanel changed, new panel is not required
+- Deck panel changed, new panel is not required
 - Split rear panel
 
 **X/Y Joints**
