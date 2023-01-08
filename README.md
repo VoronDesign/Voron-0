@@ -2,7 +2,7 @@
 
 ![Image of Voron Zero](http://vorondesign.com/images/voron0.2_bg.jpg)
 
-The official release of the Voron Zero 3d printer. You can find the BOM in the configurator located at the [Voron Design]( http://vorondesign.com/voron0) website.
+The official release of the Voron Zero 3D printer. You can find the BOM in the configurator located at the [Voron Design]( http://vorondesign.com/voron0) website.
 
 The current revision is V0.2
 
@@ -24,7 +24,7 @@ A majority of the printed parts have changed. The configurator will give you an 
 - New design: Mini Stealth Burner
 - Direct Drive Extruder with BMG gears and 20mm thick pancake motor with 10 tooth spur gear
 - Improved part cooling ducts (fans are same as V0.1)
-- Supports Revo VORON, Dragon, Dragonfly BMO, Dropeffect, Creality Spider pro
+- Supports Revo VORON, Dragon, Dragonfly BMO, DropEffect, Creality Spider Pro
 
 **Drive units**
 - Motor screw count reduction
@@ -40,14 +40,14 @@ A majority of the printed parts have changed. The configurator will give you an 
 - Hinged design
 - Cam locks to secure tophat in place
 
-**Panels/clips**
+**Panels/Clips**
 - All Panels are 3mm
 - Deck panel changed, new panel is not required
 - Split rear panel
 
 **X/Y Joints**
-- Tops became 1mm smaller to accomidate MiniSB
-- - Endstop block Removed for sensorless homing
+- Tops became 1mm smaller to accommodate MiniSB
+- - Endstop block removed for sensorless homing
 
 **Bed Assembly**
 - Printed parts changed, bed position moved 3mm to the rear
