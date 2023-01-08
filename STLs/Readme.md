@@ -2,7 +2,7 @@ You can Download the entire STL folder at once by clicking [**HERE**](https://do
 
 **PRIMARY COLOR**
 
-example: B_Drive_Frame_Lower_x1.stl
+B_Drive_Frame_Lower_x1.stl
 These files will have nothing at the start of the filename.
 
 **ACCENT COLOR**
