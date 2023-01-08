@@ -2,9 +2,9 @@ name: Voron CI
 
 on:
   push:
-    branches: [ Voron0.1 ]
+    branches: [ Voron* ]
   pull_request:
-    branches: [ Voron0.1 ]
+    branches: [ Voron* ]
 
 jobs:
   build:
