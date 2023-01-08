@@ -24,7 +24,7 @@ A majority of the printed parts have changed. The configurator will give you an 
 - New design: Mini Stealth Burner
 - Direct Drive Extruder with BMG gears and 20mm thick pancake motor with 10 tooth spur gear
 - Improved part cooling ducts (fans are same as V0.1)
-- Supports Revo VORON, Dragon, Dragonfly BMO, DropEffect, Creality Spider Pro
+- Supports Revo VORON, Dragon, Dragonfly BMO, DropEffect XG, Creality Spider Pro
 
 **Drive units**
 - Motor screw count reduction
