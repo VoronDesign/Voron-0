@@ -6,6 +6,8 @@ The official release of the Voron Zero 3d printer.  You can find the BOM in the 
 
 The current revision is V0.2
 
+[**Printed Parts Guide**](https://docs.google.com/spreadsheets/d/1MSgTiXazJwyfcTe7QqNIMWwQ_lfM8cOXmiMWPZ2HkEI/copy)
+
 ## Highlights
 - Compact and portable
 - 120x120x120 build volume
