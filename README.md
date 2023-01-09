@@ -1,5 +1,7 @@
 # Voron Zero
 
+[**DOWNLOAD**](https://github.com/VoronDesign/Voron-0/archive/refs/heads/Voron0.2.zip)
+
 ![Image of Voron Zero](http://vorondesign.com/images/voron0.2_bg.jpg)
 
 The official release of the Voron Zero 3D printer. You can find the BOM in the configurator located at the [Voron Design]( http://vorondesign.com/voron0.2) website.
