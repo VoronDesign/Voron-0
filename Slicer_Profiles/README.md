@@ -2,7 +2,7 @@
 
 ## PrusaSlicer
 
-[VoronV0.ini](./PrusaSlicer/VoronV0.ini) is exported from the built in V0 SuperSlicer configuration and manually edited to be compatible with PrusaSlicer.
+The slicer profiles are exported from the built in V0 SuperSlicer configuration and manually edited to be compatible with PrusaSlicer.
 
 - Note: 
 
