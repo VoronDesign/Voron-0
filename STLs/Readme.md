@@ -9,7 +9,7 @@ this document list all of the printed parts with images, names, and where they a
 
 **QUANTITY REQUIRED**
 
-[a]_Thumb_Nut**_x3**.stl<br>
+[a]_Thumb_Nut_x3.stl<br>
 Any file that ends with “_x#” is telling you the quantity of that part required to build the machine.
 
 **BUILD SPECIFIC PARTS**
@@ -19,7 +19,7 @@ Any file name that does **NOT** end with a quantity designation is a part that n
 
 **ACCENT COLOR**
 
-**[a]_**Tensioner_Knob_x2.stl<br>
+[a]_Tensioner_Knob_x2.stl<br>
 We have added “[a]” to the front of any STL file that is intended to be printed with accent color. The parts are marked with a heart in the manual when they first appear. 
 
 **PRIMARY COLOR**
@@ -29,7 +29,7 @@ These files will have nothing at the start of the filename.
 
 **CLEAR / TRANSLUCENT**
 
-**[c]_**Display_Diffuser_x1.stl<br>
+[c]_Display_Diffuser_x1.stl<br>
 Any file that begins with "[c]" is intended to be printed in a clear or translucent color that allows light to penetrate through it.
 
 
