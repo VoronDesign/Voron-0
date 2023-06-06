@@ -6,7 +6,7 @@
 
 The official release of the Voron Zero 3D printer. You can find the BOM in the configurator located at the [Voron Design]( http://vorondesign.com/voron0.2) website.
 
-The current revision is V0.2
+The current revision is V0.2r1
 
 [**Printed Parts Guide**](https://docs.google.com/spreadsheets/d/1MSgTiXazJwyfcTe7QqNIMWwQ_lfM8cOXmiMWPZ2HkEI/copy)
 
