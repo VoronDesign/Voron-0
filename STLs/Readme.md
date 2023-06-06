@@ -4,12 +4,18 @@ You can Download the entire STL folder at once by clicking [**HERE**](https://do
 
 this document list all of the printed parts with images, names, and where they are used in the assembly manual as well as other helpful notes
 
-# What Parts to Print
+# Part File Naming Guide
 
-- you need to print every part in the root STL folder 
-- If you are using a display you will need all parts in the Display folder
-- in the Skirts folder, all parts and then either the Foot_Rear_Right_FRS_x1.STL or the Foot_Rear_Right_Plain_x1.STL depending on whether or not you are using the FRS (Filament Runout Sensor) or not
-- 
+
+**QUANTITY REQUIRED**
+
+[a]_Thumb_Nut_x3.stl
+Any file that ends with “_x#” is telling you the quantity of that part required to build the machine.
+
+**BUILD SPECIFIC PARTS**
+
+SKR_E3_V3_Din_Mount.stl
+Any file name that does **NOT** end with a quantity designation is a part that needs to be choosen based on the specific parts being used in your build, things like controller boards, ADXL mounts or the Bowden toolhead are exampls of parts that will not have quantities and are optional. 
 
 **PRIMARY COLOR**
 
@@ -26,10 +32,7 @@ We have added “[a]” to the front of any STL file that is intended to be prin
 [c]_Display_Diffuser_x1.stl
 Any file that begins with "[c]" is intended to be printed in a clear or translucent color that allows light to penetrate through it.
 
-**QUANTITY REQUIRED**
 
-[a]_Thumb_Nut_x3.stl
-Any file that ends with “_x#” is telling you the quantity of that part required to build the machine.
 
 
 
