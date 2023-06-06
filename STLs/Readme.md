@@ -2,7 +2,14 @@ You can Download the entire STL folder at once by clicking [**HERE**](https://do
 
 # [Printed Parts Guide](https://docs.google.com/spreadsheets/d/1MSgTiXazJwyfcTe7QqNIMWwQ_lfM8cOXmiMWPZ2HkEI/copy)
 
+this document list all of the printed parts with images, names, and where they are used in the assembly manual as well as other helpful notes
 
+# What Parts to Print
+
+- you need to print every part in the root STL folder 
+- If you are using a display you will need all parts in the Display folder
+- in the Skirts folder, all parts and then either the Foot_Rear_Right_FRS_x1.STL or the Foot_Rear_Right_Plain_x1.STL depending on whether or not you are using the FRS (Filament Runout Sensor) or not
+- 
 
 **PRIMARY COLOR**
 
