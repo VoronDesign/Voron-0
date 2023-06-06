@@ -1,6 +1,6 @@
 You can Download the entire STL folder at once by clicking [**HERE**](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FVoronDesign%2FVoron-0%2Ftree%2FVoron0.2%2FSTLs)
 
-[##Printed Parts Guide##](https://docs.google.com/spreadsheets/d/1MSgTiXazJwyfcTe7QqNIMWwQ_lfM8cOXmiMWPZ2HkEI/copy)
+[###Printed Parts Guide](https://docs.google.com/spreadsheets/d/1MSgTiXazJwyfcTe7QqNIMWwQ_lfM8cOXmiMWPZ2HkEI/copy)
 
 
 
