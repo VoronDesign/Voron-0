@@ -25,7 +25,7 @@ The current revision is V0.2r1
 ### V0.2r1 (2023 June)
 
 **Skirts**
-- We fixed the issue where 34mm z motors didnt actually fit in the machine with the bottom panel installed, this involved increasing the height of the skirts/feet by 2mm
+- We fixed the issue where 34mm Z motors didnt fit in the machine with the bottom panel installed, this involved increasing the height of the skirts/feet by 2mm
 - We added a simple filament runout sensor to the rear right foot
 
 **Toolhead**
