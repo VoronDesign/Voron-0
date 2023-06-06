@@ -18,8 +18,33 @@ The current revision is V0.2
 - Enclosed chamber
 - 24v DC bed
 - Klipper firmware
+- Filament runout sensor
 
 ## Release History
+
+### V0.2r1 (2023 June)
+
+**Skirts**
+- We fixed the issue where 34mm z motors didnt actually fit in the machine with the bottom panel installed, this involved increasing the height of the skirts/feet by 2mm
+- We added a simple filament runout sensor to the rear right foot
+
+**Toolhead**
+- Mini Stealth Burner direct drive and bopwden cowling part cooling ducts improved 
+- an issue with the guidler being able to pivot in an undesired direction was addressed by tightening the bolt holes to reduce play
+
+**Tophat**
+cam locks for the tophat are too easy to strip out, changed to a simple hex key design
+
+**Z Endstop**
+z endstop mount was beefed up to improve ridgidity 
+
+**BOM Changes**
+the BOM increased by the following items
+- 2x m2x10 self tapping screw
+- 1x MR85 bearing
+- 1x Microswitch
+- 1x ECAS04 Bowden Collet
+
 ### V0.2 (2023 January)
 
 A majority of the printed parts have changed. The configurator will give you an idea of parts needed if you are upgrading from V0.1.
