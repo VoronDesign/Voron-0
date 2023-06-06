@@ -15,7 +15,7 @@ Any file that ends with “_x#” is telling you the quantity of that part requi
 
 **BUILD SPECIFIC PARTS**
 
-SKR_E3_V3_Din_Mount.stl
+==SKR_E3_V3_Din_Mount.stl==
 
 Any file name that does **NOT** end with a quantity designation is a part that needs to be choosen based on the specific parts being used in your build, things like controller boards, ADXL mounts or the Bowden toolhead are exampls of parts that will not have quantities and are optional. 
 
