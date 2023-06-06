@@ -33,7 +33,7 @@ The current revision is V0.2
 - an issue with the guidler being able to pivot in an undesired direction was addressed by tightening the bolt holes to reduce play
 
 **Tophat**
-- cam locks for the tophat are too easy to strip out, changed to a simple hex key design
+- cam locks for the tophat were changed to a simple hex key design
 
 **Z Endstop**
 - z endstop mount was beefed up to improve ridgidity 
