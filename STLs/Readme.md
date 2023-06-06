@@ -2,7 +2,9 @@ You can Download the entire STL folder at once by clicking [**HERE**](https://do
 
 # [Printed Parts Guide](https://docs.google.com/spreadsheets/d/1MSgTiXazJwyfcTe7QqNIMWwQ_lfM8cOXmiMWPZ2HkEI/copy)
 
-this document list all of the printed parts with images, names, and where they are used in the assembly manual as well as other helpful notes
+This document lists all of the printed parts with images, names, and where they are used in the assembly manual as well as other helpful notes
+
+
 
 # Part File Naming Guide
 
