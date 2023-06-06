@@ -31,9 +31,3 @@ These files will have nothing at the start of the filename.
 
 *[c]_Display_Diffuser_x1.stl*  
 Any file that begins with "[c]" is intended to be printed in a clear or translucent color that allows light to penetrate through it.
-
-
-
-
-
-[**Printed Parts Guide**](https://docs.google.com/spreadsheets/d/1MSgTiXazJwyfcTe7QqNIMWwQ_lfM8cOXmiMWPZ2HkEI/copy)
