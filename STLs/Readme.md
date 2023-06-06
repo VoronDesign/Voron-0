@@ -9,7 +9,7 @@ this document list all of the printed parts with images, names, and where they a
 
 **QUANTITY REQUIRED**
 
-[a]_Thumb_Nut_x3.stl<br>
+*[a]_Thumb_Nut_x3.stl*<br>
 Any file that ends with “_x#” is telling you the quantity of that part required to build the machine.
 
 **BUILD SPECIFIC PARTS**
