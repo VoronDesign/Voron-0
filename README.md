@@ -29,7 +29,7 @@ The current revision is **V0.2r1**
 - We added a simple filament runout sensor to the rear right foot
 
 **Toolhead**
-- Mini Stealth Burner direct drive and bopwden cowling part cooling ducts improved 
+- Mini Stealth Burner direct drive and bowden cowling part cooling ducts improved 
 - an issue with the guidler being able to pivot in an undesired direction was addressed by tightening the bolt holes to reduce play
 
 **Tophat**
