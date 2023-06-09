@@ -31,6 +31,7 @@ The current revision is **V0.2r1**
 **Toolhead**
 - Mini Stealth Burner direct drive and bowden cowling part cooling ducts improved 
 - an issue with the guidler being able to pivot in an undesired direction was addressed by tightening the bolt holes to reduce play
+- RIDGA support for the bearings that come stock with the ridga kit has been added
 
 **Tophat**
 - cam locks for the tophat were changed to a simple hex key design
