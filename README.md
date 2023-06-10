@@ -6,7 +6,7 @@
 
 The official release of the Voron Zero 3D printer. You can find the BOM in the configurator located at the [Voron Design]( http://vorondesign.com/voron0.2) website.
 
-The current revision is V0.2
+The current revision is **V0.2r1**
 
 [**Printed Parts Guide**](https://docs.google.com/spreadsheets/d/1MSgTiXazJwyfcTe7QqNIMWwQ_lfM8cOXmiMWPZ2HkEI/copy)
 
@@ -18,8 +18,34 @@ The current revision is V0.2
 - Enclosed chamber
 - 24v DC bed
 - Klipper firmware
+- Filament runout sensor
 
 ## Release History
+
+### V0.2r1 (2023 June)
+
+**Skirts**
+- We fixed the issue where 34mm Z motors didnt fit in the machine with the bottom panel installed, this involved increasing the height of the skirts/feet by 2mm
+- We added a simple filament runout sensor to the rear right foot
+
+**Toolhead**
+- Mini Stealthburner direct drive and bowden cowling part cooling ducts improved 
+- an issue with the guidler being able to pivot in an undesired direction was addressed by tightening the bolt holes to reduce play
+- RIDGA support for the bearings that come stock with the ridga kit has been added
+
+**Tophat**
+- cam locks for the tophat were changed to a simple hex key design
+
+**Z Endstop**
+- z endstop mount was beefed up to improve ridgidity 
+
+**BOM Changes**
+the BOM increased by the following items
+- 2x m2x10 self tapping screw
+- 1x MR85 bearing
+- 1x Microswitch
+- 1x ECAS04 Bowden Collet
+
 ### V0.2 (2023 January)
 
 A majority of the printed parts have changed. The configurator will give you an idea of parts needed if you are upgrading from V0.1.
