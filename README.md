@@ -1,6 +1,6 @@
 # Voron Zero
 
-[**DOWNLOAD**](https://github.com/VoronDesign/Voron-0/archive/refs/heads/Voron0.2.zip)
+[**DOWNLOAD**](https://github.com/VoronDesign/Voron-0/archive/refs/heads/Voron0.2r1.zip)
 
 ![Image of Voron Zero](http://vorondesign.com/images/voron0.2_bg.jpg)
 
