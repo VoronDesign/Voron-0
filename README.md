@@ -40,6 +40,7 @@ The current revision is **V0.2r1**
 - z endstop mount was beefed up to improve ridgidity 
 
 **BOM Changes**
+
 the BOM increased by the following items
 - 2x m2x10 self tapping screw
 - 1x MR85 bearing
