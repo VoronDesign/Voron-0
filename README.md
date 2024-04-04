@@ -1,6 +1,8 @@
 # Voron Zero
 
-[**DOWNLOAD**](https://github.com/VoronDesign/Voron-0/archive/refs/heads/Voron0.2r1.zip)
+[**CLICK HERE TO DOWNLOAD THE ENTIRE REPO**](https://github.com/VoronDesign/Voron-0/archive/refs/heads/Voron0.2r1.zip)
+
+You can Download JUST the STL folder by clicking [**HERE**](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FVoronDesign%2FVoron-0%2Ftree%2FVoron0.2r1%2FSTLs)
 
 ![Image of Voron Zero](http://vorondesign.com/images/voron0.2_bg.jpg)
 
