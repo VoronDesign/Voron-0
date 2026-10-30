@@ -12,6 +12,15 @@ The official release of the Voron Zero 3D printer. You can find the BOM in the c
 
 The current revision is **V0.2r1**
 
+## No Heat-Set Insert Variant
+
+On this branch the printed parts use **no heat-set inserts**. Insert pockets
+were replaced with captive M3 hex nuts on the bearing-axle joints and thumb
+nuts, and with self-tapping pilot holes everywhere else. Screw lengths are
+unchanged, and the build needs 11 extra M3 nuts instead of 43 inserts. See
+[Mods/No_Heat_Set_Inserts](Mods/No_Heat_Set_Inserts/README.md) for the changed
+parts, assembly notes and the scripts that generated them.
+
 
 ## Highlights
 - Compact and portable
