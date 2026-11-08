@@ -1,8 +1,8 @@
 # Voron Zero
 
-[**CLICK HERE TO DOWNLOAD THE ENTIRE REPO**](https://github.com/VoronDesign/Voron-0/archive/refs/heads/Voron0.2r1.zip)
-
-You can Download JUST the STL folder by clicking [**HERE**](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FVoronDesign%2FVoron-0%2Ftree%2FVoron0.2r1%2FSTLs)
+<!-- Voron-0 -->
+[![Download the STLs](https://img.shields.io/badge/Download-the%20STLs-e3342b?style=for-the-badge)](https://voron.zip/done/v0.zip)
+[![Browse and Download older releases on voron.zip](https://img.shields.io/badge/Browse-older%20releases-1b1e25?style=for-the-badge)](https://voron.zip/#m=v0)
 
 [**Printed Parts Guide**](https://docs.google.com/spreadsheets/d/1MSgTiXazJwyfcTe7QqNIMWwQ_lfM8cOXmiMWPZ2HkEI/copy)
 
